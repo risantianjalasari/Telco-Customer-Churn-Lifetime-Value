@@ -1,5 +1,6 @@
 # Telco-Customer-Churn-Lifetime-Value
 **Overview**
+
 Customer retention is one of the biggest challenges in the telecommunications industry. Losing existing customers not only reduces recurring revenue but also increases the cost of acquiring new ones.
 
 This project explores customer churn using the IBM Telco Customer Churn dataset and follows a complete Business Intelligence workflow—from data preparation and exploratory analysis to business recommendations and an executive dashboard.
@@ -160,6 +161,7 @@ This project also reinforced the importance of presenting technical analysis in 
 
 # Contact
 Risanti Anjalasari
+
 - LinkedIn : [https://www.linkedin.com/in/risanti-anjalasari-aa2a96a2/]
 - GitHub   : [https://github.com/risantianjalasari]
 - Email    : risantianjalasari@gmail.com
