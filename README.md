@@ -6,7 +6,7 @@ This project explores customer churn using the IBM Telco Customer Churn dataset 
 
 Rather than focusing only on visualizations, the project aims to answer practical business questions, identify customers with the highest churn risk, estimate potential revenue at risk, and provide recommendations that support better decision-making.
 
-**Business Problem**
+# Business Problem
 The company has experienced a considerable number of customers leaving its services. However, the business does not clearly understand:
 - Which customers are most likely to churn
 - What factors contribute to customer churn
@@ -14,7 +14,7 @@ The company has experienced a considerable number of customers leaving its servi
 - Which customers should be prioritized for retention efforts
 Without these insights, retention strategies may not be targeted effectively, resulting in unnecessary revenue loss.
 
-**Project Objectives**
+# Project Objectives
 This analysis was conducted to:
 - Measure the overall customer churn rate
 - Identify customer segments with the highest churn risk
@@ -23,7 +23,7 @@ This analysis was conducted to:
 - Estimate potential revenue at risk
 - Develop an interactive dashboard to support business decisions
 
-**Dataset**
+# Dataset
 Source : IBM Sample Dataset — Telco Customer Churn
 Records : 7,043 customers
 Features :
@@ -34,7 +34,7 @@ Features :
 - Billing information
 - Customer churn status
 
-**Project Workflow**
+# Project Workflow
 Business Understanding
         ↓
 Data Quality Assessment
@@ -53,7 +53,7 @@ SQL Analysis
         ↓
 Looker Studio Dashboard
 
-**Tools**
+# Tools
 - Python
 - Pandas
 - NumPy
@@ -65,14 +65,20 @@ Looker Studio Dashboard
 
 ## Project Highlights
 ✔ End-to-end Business Intelligence project
+
 ✔ Data quality assessment and cleaning
+
 ✔ Feature engineering for customer segmentation
+
 ✔ Exploratory analysis driven by business questions
+
 ✔ Business impact analysis, including revenue at risk
+
 ✔ Interactive executive dashboard in Looker Studio
+
 ✔ Actionable recommendations for customer retention
 
-**Data Preparation**
+# Data Preparation
 The dataset was reviewed before analysis to ensure data quality. The preparation process included:
 - Checking data types
 - Identifying missing values
@@ -87,7 +93,7 @@ Additional features created during the analysis include:
 - Total Services
 - Risk Segment
 
-**Key Business Questions**
+# Key Business Questions
 The analysis focuses on answering the following questions:
 1. What is the overall customer churn rate?
 2. Which customer segments experience the highest churn?
@@ -98,7 +104,7 @@ The analysis focuses on answering the following questions:
 7. Which customer segments contribute the highest revenue?
 8. How much recurring revenue is potentially at risk due to customer churn?
 
-**Key Findings**
+# Key Findings
 The analysis identified several important patterns.
 - Customers with month-to-month contracts are significantly more likely to churn than customers with longer-term contracts.
 - Early-tenure customers represent the highest-risk customer group.
@@ -106,7 +112,7 @@ The analysis identified several important patterns.
 - Customer churn is concentrated within specific customer segments rather than being evenly distributed across the customer base.
 - A substantial portion of recurring monthly revenue is associated with customers who eventually churn, highlighting the financial impact of customer retention.
 
-**Business Recommendations**
+# Business Recommendations
 Based on the findings, several initiatives could help improve customer retention.
 - Encourage customers to migrate from month-to-month contracts to annual subscriptions.
 - Strengthen onboarding programs during the first year of the customer lifecycle.
@@ -114,7 +120,7 @@ Based on the findings, several initiatives could help improve customer retention
 - Prioritize retention campaigns for customers with high estimated lifetime value.
 - Monitor customer segments with elevated churn risk through an executive dashboard.
 
-**Dashboard**
+# Dashboard
 The interactive dashboard was built in Looker Studio and consists of four pages:
 Executive Overview
 Customer Profile
@@ -123,7 +129,7 @@ Customer Churn Analysis
 The dashboard enables business users to monitor customer performance and identify high-risk customer segments without requiring technical knowledge.
 (on progress dashboard)
 
-**Repository Structure**
+# Repository Structure
 telco-customer-churn-analysis/
 
 │
@@ -145,14 +151,14 @@ telco-customer-churn-analysis/
 │
 └── README.md
 
-**What I Learned**
+# What I Learned
 One of the most interesting parts of this project was moving beyond descriptive analysis.
 
 Instead of stopping at identifying who churned, I explored how customer characteristics, service adoption, and contract types relate to retention and business value. Estimating revenue at risk and segmenting customers based on risk helped connect the analysis to practical business decisions rather than simply reporting statistics.
 
 This project also reinforced the importance of presenting technical analysis in a way that business stakeholders can easily understand and use.
 
-**Contact**
+# Contact
 Risanti Anjalasari
 LinkedIn : [https://www.linkedin.com/in/risanti-anjalasari-aa2a96a2/]
 GitHub   : [https://github.com/risantianjalasari]
