@@ -160,7 +160,7 @@ This project also reinforced the importance of presenting technical analysis in 
 
 # Contact
 Risanti Anjalasari
-LinkedIn : [https://www.linkedin.com/in/risanti-anjalasari-aa2a96a2/]
-GitHub   : [https://github.com/risantianjalasari]
-Email    : risantianjalasari@gmail.com
-Visualization : [https://datastudio.google.com/reporting/a0384232-2bf9-4423-a7b7-4eeaada80b83]
+- LinkedIn : [https://www.linkedin.com/in/risanti-anjalasari-aa2a96a2/]
+- GitHub   : [https://github.com/risantianjalasari]
+- Email    : risantianjalasari@gmail.com
+- Visualization : [https://datastudio.google.com/reporting/a0384232-2bf9-4423-a7b7-4eeaada80b83]
